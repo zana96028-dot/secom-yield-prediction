@@ -19,7 +19,7 @@ Predicting pass/fail outcomes and identifying the process parameters most associ
 |---|---|---|
 | ![Yield Overview](dashboard/01_yield_overview.png) | ![Key Parameter Monitoring](dashboard/02_key_parameter_monitoring.png) | ![Risk Alerts](dashboard/03_risk_alerts.png) |
 
-Full report: [SECOM_Yield_Monitoring_Report.pdf](dashboard/SECOM_Yield_Monitoring_Report.pdf)
+Full report: [SECOM Yield Monitoring Report.pdf](SECOM%20Yield%20Monitoring%20Report.pdf)
 
 - **Yield Overview:** total units, failed units, fail rate, weekly and monthly fail-rate trends.
 - **Key Parameter Monitoring:** control chart for each priority parameter with centre line and control limits, plus a pass vs fail comparison.
